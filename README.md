@@ -2,11 +2,11 @@
 
 Дипломная работа по теме "классификация автотранспортных средств" по 3 категориям: автобусы, грузовые и легковые машины. На данном этапе достигнута точность 97.16%. Сохранены веса нейросети на данном результате.
 ____
-Файлы в архиве:    
+Файлы в архиве [Diplom.zip](https://github.com/AtomHard/Transport_Classification/files/9402643/Diplom.zip)    :    
 :white_check_mark: Diplom.ipynb - ноутбук для Колаба с нейросетью, этапами обучения, результатами выполнения, полностью рабочий.    
 :white_check_mark: Diplom.Prediction.ipynb - ноутбук Колаба с несколькими предиктами для проверки работы сети.    
 :white_check_mark: Презентация.pptx - презентация по дипломной работе.    
-[Diplom.zip](https://github.com/AtomHard/Transport_Classification/files/9402643/Diplom.zip)    
+
 
 Обучающая выборка:    
 https://drive.google.com/drive/folders/1hPtzQDfybcxBP0RLZgQuXNVBMWdPIVmK?usp=sharing    
